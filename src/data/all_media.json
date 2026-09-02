@@ -1,0 +1,1262 @@
+[
+    {
+        "id":  1,
+        "title":  "atkrsh-epris",
+        "fileName":  "1_atkrsh-epris.jpeg",
+        "originalName":  "atkrsh-epris.jpeg",
+        "type":  "image",
+        "category":  "ATK_DATA",
+        "size":  "46 KB",
+        "src":  "/media_all/1_atkrsh-epris.jpeg"
+    },
+    {
+        "id":  2,
+        "title":  "Comp 2 (1)",
+        "fileName":  "2_Comp_2__1_.mp4",
+        "originalName":  "Comp 2 (1).mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "77.55 MB",
+        "src":  "/media_all/2_Comp_2__1_.mp4"
+    },
+    {
+        "id":  3,
+        "title":  "dentalkart",
+        "fileName":  "3_dentalkart.mp4",
+        "originalName":  "dentalkart.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "60.44 MB",
+        "src":  "/media_all/3_dentalkart.mp4"
+    },
+    {
+        "id":  4,
+        "title":  "Dromen",
+        "fileName":  "4_Dromen.mp4",
+        "originalName":  "Dromen.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "39.68 MB",
+        "src":  "/media_all/4_Dromen.mp4"
+    },
+    {
+        "id":  5,
+        "title":  "dromen2",
+        "fileName":  "5_dromen2.mp4",
+        "originalName":  "dromen2.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "7.28 MB",
+        "src":  "/media_all/5_dromen2.mp4"
+    },
+    {
+        "id":  6,
+        "title":  "FINAL (2)",
+        "fileName":  "6_FINAL__2_.mp4",
+        "originalName":  "FINAL (2).mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "62.91 MB",
+        "src":  "/media_all/6_FINAL__2_.mp4"
+    },
+    {
+        "id":  7,
+        "title":  "Healthation Floor plan",
+        "fileName":  "7_Healthation_Floor_plan.jpg",
+        "originalName":  "Healthation Floor plan.jpg",
+        "type":  "image",
+        "category":  "ATK_DATA",
+        "size":  "206 KB",
+        "src":  "/media_all/7_Healthation_Floor_plan.jpg"
+    },
+    {
+        "id":  8,
+        "title":  "Healthation Floor3D",
+        "fileName":  "8_Healthation_Floor3D.jpg",
+        "originalName":  "Healthation Floor3D.jpg",
+        "type":  "image",
+        "category":  "ATK_DATA",
+        "size":  "364 KB",
+        "src":  "/media_all/8_Healthation_Floor3D.jpg"
+    },
+    {
+        "id":  9,
+        "title":  "Mooslli Pak10C",
+        "fileName":  "9_Mooslli_Pak10C.png",
+        "originalName":  "Mooslli Pak10C.png",
+        "type":  "image",
+        "category":  "ATK_DATA",
+        "size":  "6.25 MB",
+        "src":  "/media_all/9_Mooslli_Pak10C.png"
+    },
+    {
+        "id":  10,
+        "title":  "paraliburn",
+        "fileName":  "10_paraliburn.mp4",
+        "originalName":  "paraliburn.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "96.09 MB",
+        "src":  "/media_all/10_paraliburn.mp4"
+    },
+    {
+        "id":  11,
+        "title":  "partmixed",
+        "fileName":  "11_partmixed.mp4",
+        "originalName":  "partmixed.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "115.31 MB",
+        "src":  "/media_all/11_partmixed.mp4"
+    },
+    {
+        "id":  12,
+        "title":  "pmjaypro",
+        "fileName":  "12_pmjaypro.mp4",
+        "originalName":  "pmjaypro.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "70.14 MB",
+        "src":  "/media_all/12_pmjaypro.mp4"
+    },
+    {
+        "id":  13,
+        "title":  "SJPAMlogo",
+        "fileName":  "13_SJPAMlogo.png",
+        "originalName":  "SJPAMlogo.png",
+        "type":  "image",
+        "category":  "ATK_DATA",
+        "size":  "4.5 MB",
+        "src":  "/media_all/13_SJPAMlogo.png"
+    },
+    {
+        "id":  14,
+        "title":  "unboxing draft",
+        "fileName":  "14_unboxing_draft.mp4",
+        "originalName":  "unboxing draft.mp4",
+        "type":  "video",
+        "category":  "ATK_DATA",
+        "size":  "21.72 MB",
+        "src":  "/media_all/14_unboxing_draft.mp4"
+    },
+    {
+        "id":  15,
+        "title":  "parangat back",
+        "fileName":  "15_parangat_back.jpg",
+        "originalName":  "parangat back.jpg",
+        "type":  "image",
+        "category":  "Central Hindi Training Institute",
+        "size":  "1.59 MB",
+        "src":  "/media_all/15_parangat_back.jpg"
+    },
+    {
+        "id":  16,
+        "title":  "parangat cover",
+        "fileName":  "16_parangat_cover.jpg",
+        "originalName":  "parangat cover.jpg",
+        "type":  "image",
+        "category":  "Central Hindi Training Institute",
+        "size":  "2.76 MB",
+        "src":  "/media_all/16_parangat_cover.jpg"
+    },
+    {
+        "id":  17,
+        "title":  "parangat2 back",
+        "fileName":  "17_parangat2_back.png",
+        "originalName":  "parangat2 back.png",
+        "type":  "image",
+        "category":  "Central Hindi Training Institute",
+        "size":  "2.81 MB",
+        "src":  "/media_all/17_parangat2_back.png"
+    },
+    {
+        "id":  18,
+        "title":  "parangat2 cover",
+        "fileName":  "18_parangat2_cover.png",
+        "originalName":  "parangat2 cover.png",
+        "type":  "image",
+        "category":  "Central Hindi Training Institute",
+        "size":  "2.96 MB",
+        "src":  "/media_all/18_parangat2_cover.png"
+    },
+    {
+        "id":  19,
+        "title":  "antardhvani2015",
+        "fileName":  "19_antardhvani2015.png",
+        "originalName":  "antardhvani2015.png",
+        "type":  "image",
+        "category":  "DU website designs",
+        "size":  "1.17 MB",
+        "src":  "/media_all/19_antardhvani2015.png"
+    },
+    {
+        "id":  20,
+        "title":  "anthropology",
+        "fileName":  "20_anthropology.png",
+        "originalName":  "anthropology.png",
+        "type":  "image",
+        "category":  "DU website designs",
+        "size":  "1.27 MB",
+        "src":  "/media_all/20_anthropology.png"
+    },
+    {
+        "id":  21,
+        "title":  "18",
+        "fileName":  "21_18.jpg",
+        "originalName":  "18.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "93 KB",
+        "src":  "/media_all/21_18.jpg"
+    },
+    {
+        "id":  22,
+        "title":  "2",
+        "fileName":  "22_2.jpg",
+        "originalName":  "2.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "62 KB",
+        "src":  "/media_all/22_2.jpg"
+    },
+    {
+        "id":  23,
+        "title":  "20",
+        "fileName":  "23_20.jpg",
+        "originalName":  "20.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "76 KB",
+        "src":  "/media_all/23_20.jpg"
+    },
+    {
+        "id":  24,
+        "title":  "35",
+        "fileName":  "24_35.jpg",
+        "originalName":  "35.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "77 KB",
+        "src":  "/media_all/24_35.jpg"
+    },
+    {
+        "id":  25,
+        "title":  "40",
+        "fileName":  "25_40.jpg",
+        "originalName":  "40.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "109 KB",
+        "src":  "/media_all/25_40.jpg"
+    },
+    {
+        "id":  26,
+        "title":  "43",
+        "fileName":  "26_43.jpg",
+        "originalName":  "43.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "158 KB",
+        "src":  "/media_all/26_43.jpg"
+    },
+    {
+        "id":  27,
+        "title":  "47",
+        "fileName":  "27_47.jpg",
+        "originalName":  "47.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "108 KB",
+        "src":  "/media_all/27_47.jpg"
+    },
+    {
+        "id":  28,
+        "title":  "56",
+        "fileName":  "28_56.jpg",
+        "originalName":  "56.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "117 KB",
+        "src":  "/media_all/28_56.jpg"
+    },
+    {
+        "id":  29,
+        "title":  "58",
+        "fileName":  "29_58.jpg",
+        "originalName":  "58.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "70 KB",
+        "src":  "/media_all/29_58.jpg"
+    },
+    {
+        "id":  30,
+        "title":  "9",
+        "fileName":  "30_9.jpg",
+        "originalName":  "9.jpg",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "63 KB",
+        "src":  "/media_all/30_9.jpg"
+    },
+    {
+        "id":  31,
+        "title":  "POSTER10",
+        "fileName":  "31_POSTER10.png",
+        "originalName":  "POSTER10.png",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "590 KB",
+        "src":  "/media_all/31_POSTER10.png"
+    },
+    {
+        "id":  32,
+        "title":  "POSTER11",
+        "fileName":  "32_POSTER11.png",
+        "originalName":  "POSTER11.png",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "1.81 MB",
+        "src":  "/media_all/32_POSTER11.png"
+    },
+    {
+        "id":  33,
+        "title":  "poster5",
+        "fileName":  "33_poster5.png",
+        "originalName":  "poster5.png",
+        "type":  "image",
+        "category":  "Epris",
+        "size":  "3 MB",
+        "src":  "/media_all/33_poster5.png"
+    },
+    {
+        "id":  34,
+        "title":  "1",
+        "fileName":  "34_1.jpg",
+        "originalName":  "1.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "135 KB",
+        "src":  "/media_all/34_1.jpg"
+    },
+    {
+        "id":  35,
+        "title":  "10",
+        "fileName":  "35_10.jpg",
+        "originalName":  "10.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "339 KB",
+        "src":  "/media_all/35_10.jpg"
+    },
+    {
+        "id":  36,
+        "title":  "11",
+        "fileName":  "36_11.jpg",
+        "originalName":  "11.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "95 KB",
+        "src":  "/media_all/36_11.jpg"
+    },
+    {
+        "id":  37,
+        "title":  "12",
+        "fileName":  "37_12.jpg",
+        "originalName":  "12.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "604 KB",
+        "src":  "/media_all/37_12.jpg"
+    },
+    {
+        "id":  38,
+        "title":  "14",
+        "fileName":  "38_14.jpg",
+        "originalName":  "14.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "235 KB",
+        "src":  "/media_all/38_14.jpg"
+    },
+    {
+        "id":  39,
+        "title":  "15",
+        "fileName":  "39_15.jpg",
+        "originalName":  "15.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "65 KB",
+        "src":  "/media_all/39_15.jpg"
+    },
+    {
+        "id":  40,
+        "title":  "17",
+        "fileName":  "40_17.jpg",
+        "originalName":  "17.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "155 KB",
+        "src":  "/media_all/40_17.jpg"
+    },
+    {
+        "id":  41,
+        "title":  "18",
+        "fileName":  "41_18.jpg",
+        "originalName":  "18.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "211 KB",
+        "src":  "/media_all/41_18.jpg"
+    },
+    {
+        "id":  42,
+        "title":  "19",
+        "fileName":  "42_19.jpg",
+        "originalName":  "19.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "163 KB",
+        "src":  "/media_all/42_19.jpg"
+    },
+    {
+        "id":  43,
+        "title":  "2",
+        "fileName":  "43_2.jpg",
+        "originalName":  "2.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "142 KB",
+        "src":  "/media_all/43_2.jpg"
+    },
+    {
+        "id":  44,
+        "title":  "20",
+        "fileName":  "44_20.jpg",
+        "originalName":  "20.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "235 KB",
+        "src":  "/media_all/44_20.jpg"
+    },
+    {
+        "id":  45,
+        "title":  "21",
+        "fileName":  "45_21.jpg",
+        "originalName":  "21.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "528 KB",
+        "src":  "/media_all/45_21.jpg"
+    },
+    {
+        "id":  46,
+        "title":  "23",
+        "fileName":  "46_23.jpeg",
+        "originalName":  "23.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "191 KB",
+        "src":  "/media_all/46_23.jpeg"
+    },
+    {
+        "id":  47,
+        "title":  "24",
+        "fileName":  "47_24.jpeg",
+        "originalName":  "24.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "204 KB",
+        "src":  "/media_all/47_24.jpeg"
+    },
+    {
+        "id":  48,
+        "title":  "25",
+        "fileName":  "48_25.jpeg",
+        "originalName":  "25.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "287 KB",
+        "src":  "/media_all/48_25.jpeg"
+    },
+    {
+        "id":  49,
+        "title":  "26",
+        "fileName":  "49_26.jpeg",
+        "originalName":  "26.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "173 KB",
+        "src":  "/media_all/49_26.jpeg"
+    },
+    {
+        "id":  50,
+        "title":  "27",
+        "fileName":  "50_27.jpg",
+        "originalName":  "27.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "122 KB",
+        "src":  "/media_all/50_27.jpg"
+    },
+    {
+        "id":  51,
+        "title":  "29",
+        "fileName":  "51_29.jpeg",
+        "originalName":  "29.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "226 KB",
+        "src":  "/media_all/51_29.jpeg"
+    },
+    {
+        "id":  52,
+        "title":  "3",
+        "fileName":  "52_3.jpg",
+        "originalName":  "3.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "146 KB",
+        "src":  "/media_all/52_3.jpg"
+    },
+    {
+        "id":  53,
+        "title":  "7",
+        "fileName":  "53_7.jpg",
+        "originalName":  "7.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "137 KB",
+        "src":  "/media_all/53_7.jpg"
+    },
+    {
+        "id":  54,
+        "title":  "8",
+        "fileName":  "54_8.jpg",
+        "originalName":  "8.jpg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "92 KB",
+        "src":  "/media_all/54_8.jpg"
+    },
+    {
+        "id":  55,
+        "title":  "HFIcard",
+        "fileName":  "55_HFIcard.jpeg",
+        "originalName":  "HFIcard.jpeg",
+        "type":  "image",
+        "category":  "Hemophilia Federation (INDIA)",
+        "size":  "75 KB",
+        "src":  "/media_all/55_HFIcard.jpeg"
+    },
+    {
+        "id":  56,
+        "title":  "1",
+        "fileName":  "56_1.jpg",
+        "originalName":  "1.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.29 MB",
+        "src":  "/media_all/56_1.jpg"
+    },
+    {
+        "id":  57,
+        "title":  "10",
+        "fileName":  "57_10.jpg",
+        "originalName":  "10.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "6.06 MB",
+        "src":  "/media_all/57_10.jpg"
+    },
+    {
+        "id":  58,
+        "title":  "11",
+        "fileName":  "58_11.jpg",
+        "originalName":  "11.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "4.58 MB",
+        "src":  "/media_all/58_11.jpg"
+    },
+    {
+        "id":  59,
+        "title":  "12",
+        "fileName":  "59_12.jpg",
+        "originalName":  "12.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.44 MB",
+        "src":  "/media_all/59_12.jpg"
+    },
+    {
+        "id":  60,
+        "title":  "13",
+        "fileName":  "60_13.jpg",
+        "originalName":  "13.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "6.9 MB",
+        "src":  "/media_all/60_13.jpg"
+    },
+    {
+        "id":  61,
+        "title":  "14",
+        "fileName":  "61_14.jpg",
+        "originalName":  "14.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "5.43 MB",
+        "src":  "/media_all/61_14.jpg"
+    },
+    {
+        "id":  62,
+        "title":  "15",
+        "fileName":  "62_15.jpg",
+        "originalName":  "15.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "6.9 MB",
+        "src":  "/media_all/62_15.jpg"
+    },
+    {
+        "id":  63,
+        "title":  "16",
+        "fileName":  "63_16.jpg",
+        "originalName":  "16.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "4.39 MB",
+        "src":  "/media_all/63_16.jpg"
+    },
+    {
+        "id":  64,
+        "title":  "17",
+        "fileName":  "64_17.jpg",
+        "originalName":  "17.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "6.91 MB",
+        "src":  "/media_all/64_17.jpg"
+    },
+    {
+        "id":  65,
+        "title":  "18",
+        "fileName":  "65_18.jpg",
+        "originalName":  "18.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.9 MB",
+        "src":  "/media_all/65_18.jpg"
+    },
+    {
+        "id":  66,
+        "title":  "19",
+        "fileName":  "66_19.jpg",
+        "originalName":  "19.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.41 MB",
+        "src":  "/media_all/66_19.jpg"
+    },
+    {
+        "id":  67,
+        "title":  "2",
+        "fileName":  "67_2.jpg",
+        "originalName":  "2.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "4.17 MB",
+        "src":  "/media_all/67_2.jpg"
+    },
+    {
+        "id":  68,
+        "title":  "20",
+        "fileName":  "68_20.jpg",
+        "originalName":  "20.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.34 MB",
+        "src":  "/media_all/68_20.jpg"
+    },
+    {
+        "id":  69,
+        "title":  "21",
+        "fileName":  "69_21.jpg",
+        "originalName":  "21.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "1.78 MB",
+        "src":  "/media_all/69_21.jpg"
+    },
+    {
+        "id":  70,
+        "title":  "22",
+        "fileName":  "70_22.jpg",
+        "originalName":  "22.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "1.78 MB",
+        "src":  "/media_all/70_22.jpg"
+    },
+    {
+        "id":  71,
+        "title":  "23",
+        "fileName":  "71_23.jpg",
+        "originalName":  "23.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.75 MB",
+        "src":  "/media_all/71_23.jpg"
+    },
+    {
+        "id":  72,
+        "title":  "24",
+        "fileName":  "72_24.jpg",
+        "originalName":  "24.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.68 MB",
+        "src":  "/media_all/72_24.jpg"
+    },
+    {
+        "id":  73,
+        "title":  "25",
+        "fileName":  "73_25.jpg",
+        "originalName":  "25.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.26 MB",
+        "src":  "/media_all/73_25.jpg"
+    },
+    {
+        "id":  74,
+        "title":  "26",
+        "fileName":  "74_26.jpg",
+        "originalName":  "26.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.56 MB",
+        "src":  "/media_all/74_26.jpg"
+    },
+    {
+        "id":  75,
+        "title":  "27",
+        "fileName":  "75_27.jpg",
+        "originalName":  "27.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.93 MB",
+        "src":  "/media_all/75_27.jpg"
+    },
+    {
+        "id":  76,
+        "title":  "28",
+        "fileName":  "76_28.jpg",
+        "originalName":  "28.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.37 MB",
+        "src":  "/media_all/76_28.jpg"
+    },
+    {
+        "id":  77,
+        "title":  "29",
+        "fileName":  "77_29.jpg",
+        "originalName":  "29.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "8.75 MB",
+        "src":  "/media_all/77_29.jpg"
+    },
+    {
+        "id":  78,
+        "title":  "3",
+        "fileName":  "78_3.jpg",
+        "originalName":  "3.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.18 MB",
+        "src":  "/media_all/78_3.jpg"
+    },
+    {
+        "id":  79,
+        "title":  "30",
+        "fileName":  "79_30.jpg",
+        "originalName":  "30.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "8.88 MB",
+        "src":  "/media_all/79_30.jpg"
+    },
+    {
+        "id":  80,
+        "title":  "31",
+        "fileName":  "80_31.jpg",
+        "originalName":  "31.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "4.72 MB",
+        "src":  "/media_all/80_31.jpg"
+    },
+    {
+        "id":  81,
+        "title":  "32",
+        "fileName":  "81_32.jpg",
+        "originalName":  "32.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "491 KB",
+        "src":  "/media_all/81_32.jpg"
+    },
+    {
+        "id":  82,
+        "title":  "33",
+        "fileName":  "82_33.jpg",
+        "originalName":  "33.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "473 KB",
+        "src":  "/media_all/82_33.jpg"
+    },
+    {
+        "id":  83,
+        "title":  "34",
+        "fileName":  "83_34.jpg",
+        "originalName":  "34.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "6.84 MB",
+        "src":  "/media_all/83_34.jpg"
+    },
+    {
+        "id":  84,
+        "title":  "35",
+        "fileName":  "84_35.jpg",
+        "originalName":  "35.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "8.18 MB",
+        "src":  "/media_all/84_35.jpg"
+    },
+    {
+        "id":  85,
+        "title":  "36",
+        "fileName":  "85_36.png",
+        "originalName":  "36.png",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "24.88 MB",
+        "src":  "/media_all/85_36.png"
+    },
+    {
+        "id":  86,
+        "title":  "37",
+        "fileName":  "86_37.png",
+        "originalName":  "37.png",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "30.85 MB",
+        "src":  "/media_all/86_37.png"
+    },
+    {
+        "id":  87,
+        "title":  "4",
+        "fileName":  "87_4.jpg",
+        "originalName":  "4.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.5 MB",
+        "src":  "/media_all/87_4.jpg"
+    },
+    {
+        "id":  88,
+        "title":  "5",
+        "fileName":  "88_5.jpg",
+        "originalName":  "5.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "7.95 MB",
+        "src":  "/media_all/88_5.jpg"
+    },
+    {
+        "id":  89,
+        "title":  "6",
+        "fileName":  "89_6.jpg",
+        "originalName":  "6.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "3.6 MB",
+        "src":  "/media_all/89_6.jpg"
+    },
+    {
+        "id":  90,
+        "title":  "7",
+        "fileName":  "90_7.jpg",
+        "originalName":  "7.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "2.18 MB",
+        "src":  "/media_all/90_7.jpg"
+    },
+    {
+        "id":  91,
+        "title":  "8",
+        "fileName":  "91_8.jpg",
+        "originalName":  "8.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "5.13 MB",
+        "src":  "/media_all/91_8.jpg"
+    },
+    {
+        "id":  92,
+        "title":  "9",
+        "fileName":  "92_9.jpg",
+        "originalName":  "9.jpg",
+        "type":  "image",
+        "category":  "Magical Footsteps",
+        "size":  "4.49 MB",
+        "src":  "/media_all/92_9.jpg"
+    },
+    {
+        "id":  93,
+        "title":  "buraq dhante",
+        "fileName":  "93_buraq_dhante.jpg",
+        "originalName":  "buraq dhante.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "122 KB",
+        "src":  "/media_all/93_buraq_dhante.jpg"
+    },
+    {
+        "id":  94,
+        "title":  "buraq diwali",
+        "fileName":  "94_buraq_diwali.jpg",
+        "originalName":  "buraq diwali.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "315 KB",
+        "src":  "/media_all/94_buraq_diwali.jpg"
+    },
+    {
+        "id":  95,
+        "title":  "hello concept",
+        "fileName":  "95_hello_concept.jpg",
+        "originalName":  "hello concept.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "161 KB",
+        "src":  "/media_all/95_hello_concept.jpg"
+    },
+    {
+        "id":  96,
+        "title":  "hello dhante",
+        "fileName":  "96_hello_dhante.jpg",
+        "originalName":  "hello dhante.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "114 KB",
+        "src":  "/media_all/96_hello_dhante.jpg"
+    },
+    {
+        "id":  97,
+        "title":  "hello diwali",
+        "fileName":  "97_hello_diwali.jpg",
+        "originalName":  "hello diwali.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "330 KB",
+        "src":  "/media_all/97_hello_diwali.jpg"
+    },
+    {
+        "id":  98,
+        "title":  "sg dhante",
+        "fileName":  "98_sg_dhante.jpg",
+        "originalName":  "sg dhante.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "100 KB",
+        "src":  "/media_all/98_sg_dhante.jpg"
+    },
+    {
+        "id":  99,
+        "title":  "sg diwali 2",
+        "fileName":  "99_sg_diwali_2.jpg",
+        "originalName":  "sg diwali 2.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "278 KB",
+        "src":  "/media_all/99_sg_diwali_2.jpg"
+    },
+    {
+        "id":  100,
+        "title":  "sg diwali",
+        "fileName":  "100_sg_diwali.jpg",
+        "originalName":  "sg diwali.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "119 KB",
+        "src":  "/media_all/100_sg_diwali.jpg"
+    },
+    {
+        "id":  101,
+        "title":  "sk dhante",
+        "fileName":  "101_sk_dhante.jpg",
+        "originalName":  "sk dhante.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "102 KB",
+        "src":  "/media_all/101_sk_dhante.jpg"
+    },
+    {
+        "id":  102,
+        "title":  "sk diwali 2",
+        "fileName":  "102_sk_diwali_2.jpg",
+        "originalName":  "sk diwali 2.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "299 KB",
+        "src":  "/media_all/102_sk_diwali_2.jpg"
+    },
+    {
+        "id":  103,
+        "title":  "sk diwali",
+        "fileName":  "103_sk_diwali.jpg",
+        "originalName":  "sk diwali.jpg",
+        "type":  "image",
+        "category":  "SKA",
+        "size":  "142 KB",
+        "src":  "/media_all/103_sk_diwali.jpg"
+    },
+    {
+        "id":  104,
+        "title":  "00 Final Render 1080p_2",
+        "fileName":  "104_00_Final_Render_1080p_2.mp4",
+        "originalName":  "00 Final Render 1080p_2.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "45.05 MB",
+        "src":  "/media_all/104_00_Final_Render_1080p_2.mp4"
+    },
+    {
+        "id":  105,
+        "title":  "45",
+        "fileName":  "105_45.mp4",
+        "originalName":  "45.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "6.61 MB",
+        "src":  "/media_all/105_45.mp4"
+    },
+    {
+        "id":  106,
+        "title":  "atkrsh",
+        "fileName":  "106_atkrsh.mp4",
+        "originalName":  "atkrsh.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "18.18 MB",
+        "src":  "/media_all/106_atkrsh.mp4"
+    },
+    {
+        "id":  107,
+        "title":  "Black Mirror",
+        "fileName":  "107_Black_Mirror.mp4",
+        "originalName":  "Black Mirror.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "10.96 MB",
+        "src":  "/media_all/107_Black_Mirror.mp4"
+    },
+    {
+        "id":  108,
+        "title":  "CHRIS1",
+        "fileName":  "108_CHRIS1.mp4",
+        "originalName":  "CHRIS1.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "22.78 MB",
+        "src":  "/media_all/108_CHRIS1.mp4"
+    },
+    {
+        "id":  109,
+        "title":  "Comp 1 (2)",
+        "fileName":  "109_Comp_1__2_.mp4",
+        "originalName":  "Comp 1 (2).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "60.74 MB",
+        "src":  "/media_all/109_Comp_1__2_.mp4"
+    },
+    {
+        "id":  110,
+        "title":  "Comp 1 (3)",
+        "fileName":  "110_Comp_1__3_.mp4",
+        "originalName":  "Comp 1 (3).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "55.29 MB",
+        "src":  "/media_all/110_Comp_1__3_.mp4"
+    },
+    {
+        "id":  111,
+        "title":  "Comp 1_1 (1) (1) (1)",
+        "fileName":  "111_Comp_1_1__1___1___1_.mp4",
+        "originalName":  "Comp 1_1 (1) (1) (1).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "63.72 MB",
+        "src":  "/media_all/111_Comp_1_1__1___1___1_.mp4"
+    },
+    {
+        "id":  112,
+        "title":  "Comp 1_1 (1)",
+        "fileName":  "112_Comp_1_1__1_.mp4",
+        "originalName":  "Comp 1_1 (1).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "51.42 MB",
+        "src":  "/media_all/112_Comp_1_1__1_.mp4"
+    },
+    {
+        "id":  113,
+        "title":  "Comp 1_1 (4)",
+        "fileName":  "113_Comp_1_1__4_.mp4",
+        "originalName":  "Comp 1_1 (4).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "49.99 MB",
+        "src":  "/media_all/113_Comp_1_1__4_.mp4"
+    },
+    {
+        "id":  114,
+        "title":  "Comp 1_1",
+        "fileName":  "114_Comp_1_1.mp4",
+        "originalName":  "Comp 1_1.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "61.98 MB",
+        "src":  "/media_all/114_Comp_1_1.mp4"
+    },
+    {
+        "id":  115,
+        "title":  "Comp 1_2",
+        "fileName":  "115_Comp_1_2.mp4",
+        "originalName":  "Comp 1_2.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "52.38 MB",
+        "src":  "/media_all/115_Comp_1_2.mp4"
+    },
+    {
+        "id":  116,
+        "title":  "Comp 1_3 (1) (1)",
+        "fileName":  "116_Comp_1_3__1___1_.mp4",
+        "originalName":  "Comp 1_3 (1) (1).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "14.11 MB",
+        "src":  "/media_all/116_Comp_1_3__1___1_.mp4"
+    },
+    {
+        "id":  117,
+        "title":  "Comp 1_3 (2)",
+        "fileName":  "117_Comp_1_3__2_.mp4",
+        "originalName":  "Comp 1_3 (2).mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "62.86 MB",
+        "src":  "/media_all/117_Comp_1_3__2_.mp4"
+    },
+    {
+        "id":  118,
+        "title":  "Comp 1_7",
+        "fileName":  "118_Comp_1_7.mp4",
+        "originalName":  "Comp 1_7.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "60.23 MB",
+        "src":  "/media_all/118_Comp_1_7.mp4"
+    },
+    {
+        "id":  119,
+        "title":  "DU antardhvani 2015",
+        "fileName":  "119_DU_antardhvani_2015.gif",
+        "originalName":  "DU antardhvani 2015.gif",
+        "type":  "image",
+        "category":  "Video",
+        "size":  "13.1 MB",
+        "src":  "/media_all/119_DU_antardhvani_2015.gif"
+    },
+    {
+        "id":  120,
+        "title":  "Eid_Opener_HD",
+        "fileName":  "120_Eid_Opener_HD.mp4",
+        "originalName":  "Eid_Opener_HD.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "47.89 MB",
+        "src":  "/media_all/120_Eid_Opener_HD.mp4"
+    },
+    {
+        "id":  121,
+        "title":  "Final Comp_4",
+        "fileName":  "121_Final_Comp_4.mp4",
+        "originalName":  "Final Comp_4.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "60.84 MB",
+        "src":  "/media_all/121_Final_Comp_4.mp4"
+    },
+    {
+        "id":  122,
+        "title":  "Final",
+        "fileName":  "122_Final.mp4",
+        "originalName":  "Final.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "44.48 MB",
+        "src":  "/media_all/122_Final.mp4"
+    },
+    {
+        "id":  123,
+        "title":  "Holi Festival Opener_2",
+        "fileName":  "123_Holi_Festival_Opener_2.mp4",
+        "originalName":  "Holi Festival Opener_2.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "63.03 MB",
+        "src":  "/media_all/123_Holi_Festival_Opener_2.mp4"
+    },
+    {
+        "id":  124,
+        "title":  "iitd_techfest2017",
+        "fileName":  "124_iitd_techfest2017.mov",
+        "originalName":  "iitd_techfest2017.mov",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "17.04 MB",
+        "src":  "/media_all/124_iitd_techfest2017.mov"
+    },
+    {
+        "id":  125,
+        "title":  "indiarush.com",
+        "fileName":  "125_indiarush.com.mov",
+        "originalName":  "indiarush.com.mov",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "13.85 MB",
+        "src":  "/media_all/125_indiarush.com.mov"
+    },
+    {
+        "id":  126,
+        "title":  "Main Composition",
+        "fileName":  "126_Main_Composition.mp4",
+        "originalName":  "Main Composition.mp4",
+        "type":  "video",
+        "category":  "Video",
+        "size":  "34.04 MB",
+        "src":  "/media_all/126_Main_Composition.mp4"
+    }
+]
